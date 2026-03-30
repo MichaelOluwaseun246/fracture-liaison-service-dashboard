@@ -21,7 +21,7 @@ Excel (Data cleaning and preparation)
 Data Analysis (EDA, KPI tracking, performance segmentation)
 
 ## Interactive Dashboard Overview
-![FLS-performance-dashboard](FLS-performance-dashboard.png)
+[FLS-performance-dashboard](FLS-performance-dashboard.jpg)
 
 ## 📌 Project Highlights
 Built an interactive dashboard to monitor healthcare service performance
